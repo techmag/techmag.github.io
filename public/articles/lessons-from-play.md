@@ -1,4 +1,7 @@
-# Lessons I wish I had learned before migrating from Java and JSPs to Scala and Play.md
+---
+title: Lessons I wish I had learned before migrating from Java and JSPs to Scala and Play
+layout: post
+---
 
 I’ve written this article in the hopes that it spares someone on a similar path, the pain of migration, and the feelings of insanity, while moving from the world of Java and JSPs to the world of Scala and the Play Framework. 
 
